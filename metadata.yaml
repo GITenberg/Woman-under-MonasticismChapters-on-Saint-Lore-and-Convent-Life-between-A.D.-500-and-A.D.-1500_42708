@@ -1,0 +1,33 @@
+_repo: Woman-under-MonasticismChapters-on-Saint-Lore-and-Convent-Life-between-A.D.-500-and-A.D.-1500_42708
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42708-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Eckenstein, Lina
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '40628'
+    url: http://www.gutenberg.org/2009/agents/40628
+    wikipedia: https://en.wikipedia.org/wiki/Lina_Eckenstein
+description: ''
+gutenberg_issued: '2013-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42708'
+  lccn: '12032005'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- History -- Middle Ages, 500-1500'
+- !lcsh 'Monastic and religious life -- History -- Middle Ages, 600-1500'
+- !lcsh 'Monasticism and religious orders for women -- History -- Middle Ages, 600-1500'
+- !lcsh 'Convents'
+- !lcc 'BX'
+title: 'Woman under Monasticism
+
+  Chapters on Saint-Lore and Convent Life between A.D. 500 and A.D. 1500'
+url: http://www.gutenberg.org/ebooks/42708
