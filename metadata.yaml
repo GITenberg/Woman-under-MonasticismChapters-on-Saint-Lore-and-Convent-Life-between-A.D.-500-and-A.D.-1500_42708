@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40628
     wikipedia: https://en.wikipedia.org/wiki/Lina_Eckenstein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42708#Woman-under-MonasticismChapters-on-Saint-Lore-and-Convent-Life-between-A.D.-500-and-A.D.-1500
 gutenberg_issued: '2013-05-13'
 gutenberg_type: Text
 identifiers:
